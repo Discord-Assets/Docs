@@ -1,7 +1,19 @@
-# O cielos me descubriste, aun no eh empezado este proyecto.
+# Discord-Bot
 
-Mi proyecto trata de un bot de discord 
+### Assets
 
-si quieres apoyarme en este proyecto me puedes mandar un [correo](hugomelendez2006@gmail.com) o bien contactarme en mi [discord](https://cloudtype16.github.io/discord)
+Bot de Moderación y Seguridad del Server de discord.
 
-[@Hugo Melendez](https://github.com/cloudtype16)
+```
+Hemos agregado un nuevo filtro que consta en que cuando un nuevo bot ingrese le mande un mensage a los administradores de dicho 
+server donde les da dos opciones, banearlo o no.
+
+Es un simple filtro pero a la larga te podira salvar de un raideo ;)
+```
+[Invitame](https://discord.com/oauth2/authorize?client_id=933752543266373673&permissions=8&scope=bot%20applications.commands)
+
+[Soporte](https://discord.gg/k3z7zvtS6z)
+
+[Votame en top.gg](awa)
+
+[@Cloudtype16](https://github.com/cloudtype16)
