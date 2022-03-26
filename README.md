@@ -14,6 +14,6 @@ Es un simple filtro pero a la larga te podira salvar de un raideo ;)
 
 [Soporte](https://discord.gg/k3z7zvtS6z)
 
-[Votame en top.gg](awa)
+[Votame en top.gg](https://top.gg/bot/933752543266373673/vote)
 
 [@Cloudtype16](https://github.com/cloudtype16)
